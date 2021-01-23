@@ -6,8 +6,12 @@
     <string name="enter_password">Enter Password</string>
     <string name="enter_phone_number">Enter Phone No</string>
     <string name="enter_full_name">Full Name</string>
-    <string name="enter_username">Enter Username</string>
+    <string name="enter_phone">Enter Phone Number</string>
     <string name="enter_email">Enter Email</string>
-    <string name="next_btn">Next Button</string>
+    <string name="next_btn">Sign Up</string>
     <string name="create_account">Create Account</string>
+    <string name="otp_verification_text">Verification</string>
+    <string name="otp_code_text">CODE</string>
+    <string name="verify_code">Verify Code</string>
+    <string name="otp_description_text">Enter OTP Sent to your mobile no</string>
 </resources>
