@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "76167439237",
+    "project_id": "health-predictor-1a48b",
+    "storage_bucket": "health-predictor-1a48b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76167439237:android:6d9ed44089d108388d1aec",
+        "android_client_info": {
+          "package_name": "com.project4n.healthpredictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76167439237-tpdkqmve3ni47k66tfu5entnr89g4j82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project4n.healthpredictor",
+            "certificate_hash": "dcb0178a0ffd0e884ee55964c08e0ca7b212d0aa"
+          }
+        },
+        {
+          "client_id": "76167439237-30e1fmg3vmndl3f2481eqj9grna4prai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Sa62fdoJXV6Oz8CfyN8Vc3q-pBFqLP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76167439237-30e1fmg3vmndl3f2481eqj9grna4prai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
