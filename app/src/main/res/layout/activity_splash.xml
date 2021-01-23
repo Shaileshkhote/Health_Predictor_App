@@ -24,10 +24,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:fontFamily="@font/candal"
+                android:fontFamily="@font/muli_black"
                 android:foregroundGravity="clip_horizontal"
                 android:gravity="clip_vertical"
-                android:text="COVID-19 TRACKER"
+                android:text="Health Predictor "
                 android:textColor="#2196f3"
                 android:textSize="30sp" />
 
@@ -38,6 +38,7 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
             <com.airbnb.lottie.LottieAnimationView
+
                 android:id="@+id/deadhdrf"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
